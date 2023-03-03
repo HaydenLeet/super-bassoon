@@ -4,8 +4,12 @@ hahge h
 
 
 
+<<<<<<< HEAD
 
 
 oops made this change
 
 This is a change on the main
+=======
+here is an accidental change
+>>>>>>> oops
